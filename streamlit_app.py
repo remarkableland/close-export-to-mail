@@ -21,7 +21,7 @@ COLUMNS_TO_DELETE = [
     'primary_contact_other_emails', 'primary_contact_primary_url', 'primary_contact_other_urls',
     
     # Custom Property Fields
-    'custom.Acreage', 'custom.Aggr_Lot_Count', 'custom.Aggregate Discount', 'custom.Alternate_APN',
+    'custom.Aggr_Lot_Count', 'custom.Aggregate Discount', 'custom.Alternate_APN',
     'custom.Blind_Offer_Amount', 'custom.Building_Sqft', 'custom.Census_Tract', 
     'custom.County_Assessed_Value', 'custom.County_Market_Value', 'custom.Date_Transfer',
     'custom.Evaluation', 'custom.Evaluation_Checklist_Completed', 'custom.Improvement_%',
