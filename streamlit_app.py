@@ -22,7 +22,7 @@ COLUMNS_TO_DELETE = [
     
     # Custom Property Fields
     'custom.Aggr_Lot_Count', 'custom.Aggregate Discount', 'custom.Alternate_APN',
-    'custom.Blind_Offer_Amount', 'custom.Building_Sqft', 'custom.Census_Tract', 
+    'custom.Building_Sqft', 'custom.Census_Tract', 
     'custom.County_Assessed_Value', 'custom.County_Market_Value', 'custom.Date_Transfer',
     'custom.Evaluation', 'custom.Evaluation_Checklist_Completed', 'custom.Improvement_%',
     'custom.Land_ID_URL', 'custom.Last_Loan_Date_Recording', 'custom.Last_Loan_Due_Date',
