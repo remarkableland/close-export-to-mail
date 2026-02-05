@@ -7,7 +7,7 @@ import os
 st.set_page_config(page_title="Lead CSV Processor", page_icon="📋", layout="wide")
 
 st.title("📋 Automated Lead CSV Processor")
-st.markdown("Upload your leads CSV files for automatic processing")
+st.markdown("Upload your leads CSV files for automatic processing ")
 
 # Define columns to delete
 COLUMNS_TO_DELETE = [
