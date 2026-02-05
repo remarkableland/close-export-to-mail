@@ -12,10 +12,10 @@ st.markdown("Upload your leads CSV files for automatic processing")
 # Define columns to delete
 COLUMNS_TO_DELETE = [
     # Basic Lead Info
-    'display_name', 'description', 'url', 'status_id', 'status_label',
+    'description', 'url', 'status_id', 'status_label',
 
     # Primary Contact Info
-    'primary_contact_name', 'primary_contact_title', 'primary_contact_primary_phone',
+    'primary_contact_title', 'primary_contact_primary_phone',
     'primary_contact_primary_phone_type', 'primary_contact_other_phones',
     'primary_contact_primary_email', 'primary_contact_primary_email_type',
     'primary_contact_other_emails', 'primary_contact_primary_url', 'primary_contact_other_urls',
